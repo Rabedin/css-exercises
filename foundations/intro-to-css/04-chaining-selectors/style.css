@@ -3,4 +3,8 @@
   width: 300px;
   height: width;
 }
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
 
